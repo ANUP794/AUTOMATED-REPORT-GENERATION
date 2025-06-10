@@ -1,0 +1,6 @@
+Name,Score
+Amit,85
+Sneha,90
+Ravi,78
+Neha,92
+Raj,88
